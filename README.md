@@ -2,11 +2,11 @@
 
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
-- Nombre 3
-- Nombre 4
-- Nombre 5
+- Juan ignacio
+- Deiven 
+- Danells
+- Jefry
+- Daniel
 
 ## Requisitos
 - Python 3.10+
